@@ -1,4 +1,4 @@
-Main Kittygram workflow
+name: Main Kittygram workflow
 
 on:
   push:
