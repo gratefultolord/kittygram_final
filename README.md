@@ -44,4 +44,4 @@ sudo docker-compose up -f docker-compose.production.yml up
 
 ## Об авторе
 Python-разработчик
->[gratefultolord]([https://github.com/gratefultolord]).
+>[gratefultolord]([https://github.com/gratefultolord])
